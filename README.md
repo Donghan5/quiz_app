@@ -24,4 +24,5 @@ All features are implemented on the frontend side without any backend.
 5. Open your browser and go to `http://localhost:5173` to use the application.
 
 #### Project license
-[Link]: https://roadmap.sh/projects/quiz-app
+You can check here -> https://roadmap.sh/projects/quiz-app
+
