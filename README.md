@@ -1,7 +1,7 @@
 # Quiz application
 
 ## Simple architecture
-[!Architecture] [quiz_app.png]
+![Architecture](quiz_app.png)
 
 ## Tech
 - Frontend: React, TypeScript
